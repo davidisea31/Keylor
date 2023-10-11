@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #f0f0f0;
+  background-image: url('dope.webp');
   margin: 0;
   padding: 0;
 }
@@ -55,7 +55,7 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
-  color: #66b3ff;
+  color: #0fe61a;
 }
 
 /* Estilos del contenido */
@@ -71,7 +71,7 @@ h2 {
   color: #333;
   font-size: 32px;
   margin-top: 0;
-  border-bottom: 2px solid #66b3ff;
+  border-bottom: 2px solid #0fe61a;
   padding-bottom: 10px;
 }
 
